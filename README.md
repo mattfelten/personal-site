@@ -1,4 +1,4 @@
-This is no longer being updated. See [mattfelten.github.io](https://github.com/mattfelten/mattfelten.github.io) for current ish.
+This is no longer being updated. See [mattfelten/mattfelten.com](https://github.com/mattfelten/mattfelten.com/tree/old/2014) for current ish.
 
 Hi, my name is Matt.
 =============
